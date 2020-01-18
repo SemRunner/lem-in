@@ -1,0 +1,8 @@
+#ANTS
+55
+#ROOM
+##start
+pedro				 5 5
+##end
+pablo 4 4
+pedro				-pablo

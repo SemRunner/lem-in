@@ -1,0 +1,16 @@
+#ANTS:
+55768
+#ERROR HERE
+#rooms
+##start
+pedro 1 1
+##end
+pablo 0 0
+jesus 2 2
+miguel 3 3
+jorge -1000 -1000
+pablo-pedro
+jesus-miguel
+jesus-pablo
+jesus-pedro
+jesus-jorge

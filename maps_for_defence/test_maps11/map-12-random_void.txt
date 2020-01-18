@@ -1,0 +1,13 @@
+#ANTSHOHOHOOH
+25
+##start
+start 0 0
+1 1 1
+2 2 2
+##end
+end 9 9
+start-1
+1-2
+#FIRST_RANDOM_VOID HERE
+
+2-end

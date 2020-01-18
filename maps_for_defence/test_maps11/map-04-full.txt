@@ -1,0 +1,8 @@
+#ants:
+1001
+#rooms:
+##start
+miguel 0 0
+##end
+jesus 1 1
+miguel-jesus

@@ -1,0 +1,35 @@
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+#ANTS
+12
+##start
+start 0 0
+##end
+end 7 7
+true_1 1 1
+true_2 2 2
+true_3 3 3
+true_4 4 4
+true_5 5 5
+true_6 6 6
+Lfalse 1000 1000
+start-true_1
+true_1-true_2
+true_2-true_3
+true_3-true_4
+true_4-true_5
+true_5-true_6
+true_6-Lfalse
+Lfalse-end

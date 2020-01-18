@@ -1,0 +1,10 @@
+123
+pedro 1 1
+##start
+pablo 2 2
+#est ce que les 2 lignes juste en dessous ont un comportement normal selon nous ??
+##end
+#commentaire
+jesus 3 3
+pablo-pedro
+pedro-jesus

@@ -1,0 +1,6 @@
+#yoyo
+64
+##start
+room 0 0
+##end
+room1 2 2
