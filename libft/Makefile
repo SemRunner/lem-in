@@ -28,7 +28,7 @@ include libft_base.mk
 OBJ			= $(addprefix $(LIBFT_OBJ_DIR), $(LIBFT_OBJ))
 OBJ 		+= $(addprefix $(PRF_OBJ_DIR), $(PRINTF_OBJ))
 
-CFLAGS 		= -Wall -Wextra -Werror -g3 -O2
+CFLAGS 		= -Wall -Wextra -g3 -O2 #-Werror
 
 CC			= gcc
 
