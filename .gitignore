@@ -63,3 +63,4 @@ lem-in
 /maps_fdf_for_test/
 .DS_Store
 maps_lemin/.DS_Store
+libft/libft.a
