@@ -38,7 +38,8 @@ LIBFT_SRC		= ft_atoi.c ft_bzero.c ft_dictadd.c ft_dictclearzero.c \
 	ft_intlen.c ft_print_intmatrix.c ft_delmatrix.c ft_vector.c \
 	ft_realloc.c \
 	ft_timer.c ft_timer1.c \
-	ft_sort_bubble.c ft_sort_quick.c
+	ft_sort_bubble.c ft_sort_quick.c \
+	ft_atoihex.c
 
 LIBFT_OBJ		= $(LIBFT_SRC:.c=.o)
 

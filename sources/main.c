@@ -17,6 +17,8 @@
 #include <stdio.h>
 #include "ft_timer.h"
 
+ // FIXME on zoom perspective projection freezing (may be zero about 0? need check)
+
 int				main(int argc, char **argv)
 {
 	t_lemin		lemin;

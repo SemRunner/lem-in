@@ -88,6 +88,7 @@ char				*ft_strnstr(const char *haystack,
 int					ft_strcmp(const char *s1, const char *s2);
 int					ft_strncmp(const char *s1, const char *s2, size_t n);
 int					ft_atoi(const char *str);
+int					ft_atoihex(char *str);
 int					ft_isalpha(int c);
 int					ft_isdigit(int c);
 int					ft_isascii(int c);
@@ -162,6 +163,7 @@ int					ft_nbrlen(long int a);
 int					ft_printf(const char *format, ...);
 void				ft_del_strsplit(char ***strings);
 int					ft_isint(char *str);
+int					ft_ishex(char *str);
 int					ft_intlen(int a);
 
 /*
